@@ -1,0 +1,7 @@
+------------------
+instancing
+Beispiel Applikation von der godot webseite zum Thema Instanzen.
+https://docs.godotengine.org/en/stable/getting_started/step_by_step/instancing.html
+
+Bei mausklick werden kugeln gespawnt!
+------------------
