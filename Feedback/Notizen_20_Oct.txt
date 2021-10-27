@@ -1,6 +1,11 @@
 20.10.2021 - Besprechung der Interviews und BMC
 
-- Lösungsvorschlag haben wir schon → im Interview als Idee nennen: "Was würden Sie erwarten?" "Würde das etwas bringen?" “Andere Vorschläge?” “Was könnte daran besser sein?” → Interview mehr in Richtung unseren Wegs lenken
-- Interviewleitfaden iterativ anpassen sobald Fokus weiter geschärft wurde → Thematischen Fokus im Interview setzen
-→ füllen + nächste Woche nochmal tiefer über BMC drüberschauen
+
+- Lösungsvorschlag haben wir schon → im Interview als Idee nennen: 
+  "Was würden Sie erwarten?" "Würde das etwas bringen?" “Andere Vorschläge?” 
+  “Was könnte daran besser sein?” → Interview mehr in Richtung unseren Wegs lenken
+
+- Interviewleitfaden iterativ anpassen sobald Fokus weiter geschärft wurde 
+  → Thematischen Fokus im Interview setzen
+  → füllen + nächste Woche nochmal tiefer über BMC drüberschauen
 

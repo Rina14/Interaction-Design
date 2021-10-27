@@ -1,0 +1,42 @@
+21.10.2021 - Feedback zu ersten Plänen
+
+
+Organisation
+
+- gut organisiert, strukturiert, transparent
+- Material: sehr ordentlich gearbeitet, anonymisiert, konnte sich gut alleine einarbeiten und Überblick bekommen
+- Fehlt: Einverständniserklärung! (in Drive, nicht in Github) --> Vorlage in GitHub hochgeladen
+
+
+Nächstes Interview? 
+
+- Noch durchführen
+- Prototypen zeigen, evtl. A & B
+
+
+Grundsätzliches zu Konzept
+
+- vermuteter Bedarf ist real (Kleintierzoo mit Tools, die historisch gewachsen sind) 
+  → Medienbrüche sind schlecht für UX
+- Ziel: Eierlegende Wollmilchsau → Risiko für Projekt: zu viel Vornehmen!
+
+
+Anpassbarkeit (gut dokumentiertes Open-Source-Project)
+
+- bieten Kernkonzept, dass ergänzt werden kann → guter Ansatz 
+- Anpassbarkeit & Erweiterbarkeit im Konzept anbieten ist gut (Open Source / Kernkonzept)
+- Schwer allen gerecht zu werden (Lehrern unterschiedlicher Schulgruppen etc.) 
+  →  gemeinsamen Sweet-Spot herausfinden und Dinge, die angepasst werden können sollten
+  → was brauchen alle?
+  → Welche Funktionen, sollte man aktivieren / deaktivieren können?
+- je mehr Nutzer System anpassen kann, desto mehr Konflikte kann es auch geben (Nutzer ist überfordert, braucht Skills, ….)
+- theoretisch: Nutzern Papier hinlegen und fragen was sie wollen <-> Keine Research Veranstaltung!
+- Unsere Herausforderung: mit Research viel Impulse bekommen, was Nutzer brauchen & wünschen  
+  → jetzt geht es um uns: Erfahrungssatz einbringen! → Balance zw. Nutzer zuhören + gelernte Principles/Heuristiken anbringen
+
+
+Nächste Woche
+
+- Grobentwurf mit wichtigen Inhalten (KEIN AUSFORMULIERTER PROTOTYP)
+  → seine Idee Kacheln-Kontrollzentrum
+- Alternativ: A/B-Entwürfe zeigen (vlt. auch zu Nutzern mit ins Feld nehmen) 
