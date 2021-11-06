@@ -1,0 +1,51 @@
+03.11.2021 - Feedback zu ersten Prototyp in der VL
+
+
+Datenschutz
+
+- Im Rahmen des Kurses ist es  nicht wichtig, ob Sicherheit/Datenschutz erfüllt ist (Backend), sondern eher, dass Konzept plausibel ist
+
+
+Aussicht
+- Anfang Dezember (innerhalb erster 2 Wochen): Test mit Nutzern
+- Tag der Medien ist “Fixtag” (Dienstag, 25.01.21) → vorzeigbarer Prototyp (OnePager mit Mitteln unserer Wahl (Video/Bild/…-Dokumentation) präsentieren (findet wahrscheinlich digital statt))
+
+
+Feedback 
+  I like
+- zentrales Tool
+- sehr gut, um sich zu strukturieren als Lehrer
+- Visualisierung der Zimmer
+
+
+  I like? 
+- Die "eierlegende wollmilchsau" - Unglaublich viele Ideen und Features habt ihr in den Raum geworfen
+
+  I wish
+- Elternsprechstunde
+- Welchen Mehrwert bietet die App für Schüler, wenn diese nur in die Aula können und Nachrichten empfangen können? Schüler unterhalten sich wahrscheinlich eher schon auf anderen Apps. 
+- Ich wünschte nur die Dinge, die wichtige sind, werden angezeigt
+- Nutzen Schüler die selbe Plattform?
+
+
+Hr. Rausch:
+- eierlegende Wollmilchsau: viele Ideen und wollen alles für Lehrer lösen
+- wie haben sich Lehrer mit verschiedenen Plattformen organisiert
+- Dark Mode (Mond-Icon ist auf falscher Seiten)
+→ viele Ideen priorisieren und minimalisieren 
+→ Eine Plattform als großes Kontrollzentrum ist zu viel
+→ im Rahmen der Zeit und Ressourcen die Dinge lösen, die die größte Auswirkung haben
+
+
+Organisatorisches
+
+- Tag der Medien ist am 25.01.2022
+- Bis dahin sollte der Prototyp soweit zum Vorzeigen gereift und bereits überprüft worden sein
+- One-Pager (Video-Doku o.Ä.) bereitstellen für TdM
+
+
+Grundsätzliches zum Konzept
+
+- vermuteter Bedarf ist real (Kleintierzoo mit Tools, die historisch gewachsen sind) 
+  → Medienbrüche sind schlecht für UX
+- Kernkonzept festlegen
