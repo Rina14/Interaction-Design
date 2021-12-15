@@ -1,0 +1,16 @@
+15.12.2021 - Feedback zur Weiterarbeit am Prototypen
+
+
+- Eigene Laufzeitumgebung/eigenes Betriebssystem
+- Lehrer muss sich nur auf 1 Seite einloggen und hat alles
+- Einzelne Dokumente dynamischer machen mit Views, Tabs, Accordions
+- Im Rahmen der Zeit die Dinge umsetzen
+- Kalender zusammenfügen gut
+    --> Visuelle Ebene: muss passen
+
+
+Pinboard
+  - Schöne Analogie zu physischen Pinboard
+  - Aber auch Probleme aus physischen Pinboard adaptieren
+  - Analogie zu physischem Board erhalten! 
+  - Geht virtuell besser: trotzdem Möglichkeiten im virtuellen bieten
