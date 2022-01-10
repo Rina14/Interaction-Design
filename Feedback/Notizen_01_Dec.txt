@@ -1,0 +1,24 @@
+01.12.2021 - Feedback zur (geplanten) Evaluation des Prototypen
+
+
+Leitfaden
+
+- Fragen noch spezifischer formulieren
+    --> Nicht “Wie wirken Farben auf dich?”
+    --> Vergleiche zu ähnlichen Anwendungen auf visueller Ebene
+    --> kritische Piktogramme identifizieren (Lehrerzimmer, Klassenzimmer)
+    --> ...
+- Erwartungen vor Use Cases checken und nach dem Interview überprüfen
+
+
+Prototyp
+
+- Warum Klassenchat nicht innerhalb von Klasse XY? 
+  → Konkurrenz der Nachrichtensysteme (Post-Its und Chat)
+- Klassenzimmer / Lehrerzimmer ist noch sehr überschaubar (2-3 Komponenten) 
+  → Reicht das für die Nutzer aus? Mehr Wünsche?
+
+
+Abgabe: Am Ende Prototyp als Axure-File und als HTML-Export in Github laden
+
+

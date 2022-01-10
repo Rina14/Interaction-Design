@@ -1,0 +1,13 @@
+10.11.2021 - Feedback zur Arbeitsweise
+
+
+- LinkedIn Learning Videos zu Axure
+- Aufgabenteilung: 
+    --> 1. macht Assets
+    --> 2. Skelett?
+    --> 3. Einzelne Komponenten
+    --> 4. andere Komponenten (z.B.) Chat?
+
+- Axure okay, aber high-fidelity am Ende
+- anderes Tool: Balsamic?
+
