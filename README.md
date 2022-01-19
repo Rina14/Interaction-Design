@@ -4,7 +4,7 @@
 
 Im Rahmen des Kurses Interaktionsdesign sollte ein alltägliches Problem einer Berufsgruppe untersucht und durch eine technische Anwendung unterstützt werden. Im Laufe des Design Thinking Prozesses interviewten wir Lehrende weiterführender Schulen und machten uns mit ihren Problemen und Bedürfnissen vertraut.
 So entwickelten wir einen Lösungsvorschlag für ein interaktives System zur Unterstützung der täglichen Arbeitsabläufe von Lehrenden in der Online-Lehre. Die Produktidee eines schulinternen Kommunikations- und Management-Tools für Lehrende setzten wir daraufhin prototypisch um. Der High-Fidelity-Prototyp wurde mit Lehrenden getestet und das Feedback iterativ eingearbeitet. 
-<br>
+<br><br>
 
 ### Links
 
