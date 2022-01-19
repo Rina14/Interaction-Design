@@ -15,5 +15,5 @@ So entwickelten wir einen Lösungsvorschlag für ein interaktives System zur Unt
 #### Google Drive
 - https://drive.google.com/drive/folders/1lGb7ua_YGPfwPWAqNxXP-rhOt8emeQSU
 
-#### Concept (Ideation, Sketches, BMC, Prototyp...)
+#### Konzept (Ideation, Sketches, BMC, Prototyp...)
 - https://miro.com/app/board/o9J_llxfL_4=/
