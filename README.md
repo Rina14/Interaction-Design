@@ -9,7 +9,7 @@ So entwickelten wir einen Lösungsvorschlag für ein interaktives System zur Unt
 ### Links
 
 #### Prototyp
-- https://9i7uo5.axshare.com/
+- https://9i7uo5.axshare.com/#id=u2wjnl&p=startseite&sc=2
 
 
 #### Google Drive
